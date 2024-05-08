@@ -1,5 +1,3 @@
-# Deep-Learning-Challenge
-
 # *Analysis Report*
 
 ## Overview of the Analysis
